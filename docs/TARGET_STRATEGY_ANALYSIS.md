@@ -65,5 +65,5 @@ From the target's history (btc-5m):
 
 ## Project & contact
 
-- **Repository:** [github.com/baker42757/5min-btc-polymarket-trading-bot](https://github.com/baker42757/5min-btc-polymarket-trading-bot)
-- **Telegram:** [@baker1119](https://t.me/baker1119)
+- **Repository:** [github.com/gabagool23/5min-btc-polymarket-trading-bot](https://github.com/gabagool23/5min-btc-polymarket-trading-bot)
+- **Telegram:** [@gabagool21](https://t.me/gabagool21)
