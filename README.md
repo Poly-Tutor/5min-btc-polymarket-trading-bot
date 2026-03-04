@@ -21,6 +21,10 @@ Below is a test run of the 5-minute bot: we buy Up and Down with combined cost &
 
 ![5-minute bot test result](5min_test.png)
 
+
+https://github.com/user-attachments/assets/a5bdf2a7-f4a3-4527-88b6-a08c895998b4
+
+
 ---
 
 ## Features
