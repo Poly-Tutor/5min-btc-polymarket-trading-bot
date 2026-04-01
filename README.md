@@ -199,7 +199,7 @@ This bot is for **educational and research purposes**. Trading prediction market
 ## Community
 
 - **Issues & questions:** [GitHub Issues](https://github.com/Poly-Tutor/5min-btc-polymarket-trading-bot/issues)
-- **Telegram:** [@gabagool21](https://t.me/gabagool21)
+- **Telegram:** [@AlterEgo_Eth](https://t.me/AlterEgo_Eth)
 
 ---
 
